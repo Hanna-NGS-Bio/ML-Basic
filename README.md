@@ -1,2 +1,2 @@
 ML-Basic
-Basic Machine Learning code from Visual Code Studio
+Basic Machine Learning Code Script from Visual Code Studio
